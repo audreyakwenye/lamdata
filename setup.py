@@ -14,9 +14,9 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="lambdata-audreyakwenye",
-    version="0.0.1",
+    version="0.0.2",
     author="audreyakwenye",
-    description="A collection of Data Science helper functions",
+    description="Convert number grade to letter",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
     url="https://github.com/audreyakwenye/lambdata",

@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+"""Python module for Schools/Teachers/Students 
+"""
+
 def letter_grade(num):
     if num > 95:
         print('A')
